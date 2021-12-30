@@ -5,9 +5,9 @@ Combines multiple csv files into one master file. Provide final file name, colum
 Combines multiple csv files with the same file structure into one master file. Headers will not be repeated. 
 
 
-PROJECT_DIR:
-	dataset(folder {name is important})
-	csv_conv.py
+PROJECT_DIR:<br>
+---dataset(folder {name is important})<br>
+---csv_conv.py<br>
 
 
 
