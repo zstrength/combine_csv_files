@@ -48,7 +48,7 @@ for file in file_list:
 
 result = pd.concat(frames, ignore_index=True)
 
-result.to_csv(final_file_name, encoding='utf-8', index=False)
+result.to_csv(final_file_name+'.csv', encoding='utf-8', index=False)
 
 
 
